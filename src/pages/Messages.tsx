@@ -39,7 +39,7 @@ const Messages = () => {
         online: true
       },
       lastMessage: {
-        text: 'That sounds perfect! I'll see you then.',
+        text: "That sounds perfect! I'll see you then.",
         timestamp: new Date(Date.now() - 1000 * 60 * 60 * 2), // 2 hours ago
         isRead: true
       }

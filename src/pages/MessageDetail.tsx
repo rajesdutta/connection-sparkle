@@ -50,7 +50,7 @@ const MessageDetail = () => {
         },
         {
           id: '1-4',
-          text: 'That sounds amazing! I'd love to see some of your work sometime.',
+          text: "That sounds amazing! I'd love to see some of your work sometime.",
           timestamp: new Date(Date.now() - 1000 * 60 * 60 * 1.5), // 1.5 hours ago
           isSender: true,
           isRead: true
@@ -110,7 +110,7 @@ const MessageDetail = () => {
         },
         {
           id: '2-6',
-          text: 'That sounds perfect! I'll see you then.',
+          text: "That sounds perfect! I'll see you then.",
           timestamp: new Date(Date.now() - 1000 * 60 * 60 * 2), // 2 hours ago
           isSender: true,
           isRead: true
